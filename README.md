@@ -13,6 +13,7 @@ email para entrar em contato comigo se houver alguma dúvida:
 evandromachadopereira@hotmail.com
 
 Ainda estou aprendendo a mecher com o GitHub, então qualquer coisa de errado me avisem hehe
+
 Assim que lançar uma nova atualização no site coloco uma página com o nome de todos os contribuintes do projeto!!
 
 Desde já, Muito Obrigado pessoal!!
